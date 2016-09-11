@@ -1,2 +1,2 @@
 # demoGIT
-Une démo de GIT
+A demo for GITHUB
